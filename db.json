@@ -1,0 +1,96 @@
+{
+    "users":[
+        {
+            "id": 2,
+            "status": "business"
+        }
+    ],
+    "animals": [
+        {
+            "id": 1,
+            "name": "Vaquitaloca",
+            "born_date": "01/09/2007",
+            "origin_country": "",
+            "gender":"female",
+            "location": "barn1",
+            "mother_id": 0,
+            "animal_managers_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Vaquitafeliz",
+            "born_date": "17/12/2019",
+            "origin_country": "",
+            "gender":"male",
+            "location": "barn1",
+            "mother_id": 1,
+            "animal_managers_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Vaquitatriste",
+            "born_date": "10/05/2017",
+            "origin_country": "",
+            "gender":"female",
+            "location": "barn1",
+            "mother_id": 1,
+            "animal_managers_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Vaquitareguetonera",
+            "born_date": "26/02/2010",
+            "origin_country": "",
+            "gender":"female",
+            "location": "barn1",
+            "mother_id": 0,
+            "animal_managers_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Vaquitafea",
+            "born_date": "03/06/2012",
+            "origin_country": "",
+            "gender":"female",
+            "location": "barn1",
+            "mother_id": 0,
+            "animal_managers_id": 1
+        },
+        {
+            "id":1,
+            "name": "Vaquitacomunista",
+            "born_date": "01/09/2016",
+            "origin_country": "",
+            "gender":"female",
+            "location": "barn1",
+            "mother_id": 0,
+            "animal_managers_id": 1
+        }
+    ],
+    "staff":[
+        {
+            "id": 1,
+            "job":"",
+            "status":"",
+            "business_i":""
+        },
+        {
+            "id": 2,
+            "job":"",
+            "status":"",
+            "business_i":""
+        },
+        {
+            "id": 3,
+            "job":"",
+            "status":"",
+            "business_i":""
+        },
+        {
+            "id": 4,
+            "job":"",
+            "status":"",
+            "business_i":""
+        }
+    ]
+}
